@@ -1,1 +1,2 @@
 # AR-Based_Indoor_Navigation_Application
+ARGO (Augmented Reality-based Andoor Navigation Application) is an innovative application designed to assist users unfamiliar with complex buildings such as hospitals, universities, super malls, airports, and railway stations. ARGO guides users to their desired destination, saving both time and energy. This system is cost effective, easy to use, and independent of any external hardware.
