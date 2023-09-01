@@ -10,5 +10,5 @@ https://github.com/umarhabib07/AR-Based_Indoor_Navigation_Application/assets/111
 
 # The project, named AR Library Navigator, aims to streamline the library navigation process. It begins by determining the user's current location within the corridor. From there, users can easily select the books they seek. The system then displays an arrow, guiding them to the library. Once inside, users are directed to the specific shelving area where their desired books are located. This integrated approach simplifies the library experience and enhances navigation efficiency.
 
-https://github.com/umarhabib07/AR-Based_Indoor_Navigation_Application/assets/111144921/1acbdf5c-1f6f-465d-8277-d26509e0f4d1
+
 
